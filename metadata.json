@@ -1,0 +1,6 @@
+{
+  "name": "CloudPC Windows Simulator",
+  "description": "Full-featured virtual Windows PC simulator with cloud storage, cloud RAM virtualization, real file explorer, web browser, code studio, terminal, and mobile touch trackpad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
